@@ -1,0 +1,4 @@
+name: web-browsing
+version: 1.0.0
+
+description: Claude Code skill for rigorous web research — enforces full-page content reading, prevents shallow snippet-only analysis.
