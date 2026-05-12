@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "brave-search": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@anthropic-ai/brave-search-mcp"],
+      "env": {
+        "BRAVE_API_KEY": "<your-brave-search-api-key>"
+      }
+    },
+    "apify": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@anthropic-ai/apify-mcp"],
+      "env": {
+        "APIFY_TOKEN": "<your-apify-token>"
+      }
+    }
+  }
+}
