@@ -146,7 +146,8 @@ vite.config.ts.timestamp-*
 .DS_Store
 Thumbs.db
 
+# Project specific
+docs/
+
 # npm token (contains sensitive credentials)
 .npmrc
-
-docs/
