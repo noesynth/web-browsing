@@ -85,7 +85,7 @@ Get a token at: https://console.apify.com/account/integrations
 Clone this repository and add the skills directory to your Claude Code project:
 
 ```bash
-git clone https://github.com/noesynth/web-browsing.git
+git clone https://github.com/yogsoth-ai/web-browsing.git
 ```
 
 ### 3. Use in Claude Code
@@ -150,7 +150,7 @@ web-browsing/
 
 ## Links
 
-- 🐙 [GitHub repository](https://github.com/noesynth/web-browsing)
+- 🐙 [GitHub repository](https://github.com/yogsoth-ai/web-browsing)
 - 🔍 [Brave Search API](https://brave.com/search/api/)
 - 🌐 [Apify RAG Web Browser](https://apify.com/apify/rag-web-browser)
 - 🔧 [Model Context Protocol](https://modelcontextprotocol.io)
