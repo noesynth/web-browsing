@@ -159,6 +159,6 @@ web-browsing/
 
 **v1.0.0** — Two depth-tiered skills (web-search, web-research)
 
-## License
+## 📄 License
 
 [Apache-2.0](LICENSE)
